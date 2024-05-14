@@ -47,7 +47,7 @@ I am a dedicated Informatics Engineering Student at Gunadarma University with th
 ### 📫 Media Social
 
 <div display="flex">
-  <a href="https://instagram.com/@fidhera">
+  <a href="https://instagram.com/fidhera">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://tiktok.com/@fidhera">
