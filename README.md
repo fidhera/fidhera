@@ -68,6 +68,13 @@ I am a dedicated Informatics Engineering Student at Gunadarma University with th
 
 I'm definitely not a villain person.
 
+<h3>🏆 Github Profile Trophy</h3>
+<p align="center">
+<a href="https://github.com/syedareehaquasar">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=syedareehaquasar&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+  </p>
+
 <!--
 **codewithbernard/codewithbernard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
