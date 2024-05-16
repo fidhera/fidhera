@@ -1,4 +1,4 @@
-  <!--Ijo eidttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt-->
+  <!--Ijo eidtttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt-->
 ## About Me 👋
 
 I am a dedicated Informatics Engineering Student at Gunadarma University with the spirit to continue learning and consistently improve skills in the field of computer technology. ❤️‍🔥
