@@ -9,6 +9,9 @@ I am a dedicated Informatics Engineering Student at Gunadarma University with th
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidhera&layout=compact&theme=dracula" />
 </div>
 
+
+
+
 **I like learning with**
 
 <div display="flex">
