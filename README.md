@@ -4,7 +4,7 @@ tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
 
 I am a dedicated Informatics Engineering Student at Gunadarma University with the spirit to continue learning and consistently improve skills in the field of computer technology. ❤️‍🔥
 <div style="display: flex; gap: 1rem;">
-<img align="left" height='130px' src="https://github-readme-stats.vercel.app/api?username=fidhera&show_icons=true&include_all_commits=true&&theme=dracula" />
+<!-- <img align="left" height='130px' src="https://github-readme-stats.vercel.app/api?username=fidhera&show_icons=true&include_all_commits=true&&theme=dracula" /> -->
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidhera&layout=compact&theme=dracula" />
 </div>
