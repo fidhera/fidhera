@@ -12,6 +12,7 @@ I am a dedicated Informatics Engineering Student at Gunadarma University with th
 
 
 <br/>
+
 **I like learning with**
 
 <div display="flex">
