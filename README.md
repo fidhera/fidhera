@@ -75,7 +75,7 @@ I'm definitely not a villain person.
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
 <a href="https://github.com/fidhera">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=fidhera&column=8&theme=gruvbox&no-frame=true"/>
+<!--  <img width=800 src="https://github-profile-trophy.vercel.app/?username=fidhera&column=8&theme=gruvbox&no-frame=true"/> -->
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"/>
 </a>
   </p>
