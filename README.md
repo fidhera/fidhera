@@ -8,11 +8,13 @@ I am a dedicated Informatics Engineering Student at Gunadarma University with th
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidhera&layout=compact&theme=dracula" />
 </div>
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 
 
 <br/>
 
-**I like learning with**
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I like learning with**
 
 <div display="flex">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -76,11 +78,13 @@ I'm definitely not a villain person.
 <p align="center">
 <a href="https://github.com/fidhera">
 <!--  <img width=800 src="https://github-profile-trophy.vercel.app/?username=fidhera&column=8&theme=gruvbox&no-frame=true"/> -->
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=fidhera&theme=matrix"/>
 </a>
   </p>
 
+<div align="center">
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <!--
 **codewithbernard/codewithbernard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
