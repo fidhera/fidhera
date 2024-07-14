@@ -76,8 +76,10 @@ I'm definitely not a villain person.
 <p align="center">
 <a href="https://github.com/fidhera">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=fidhera&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"/>
 </a>
   </p>
+
 
 <!--
 **codewithbernard/codewithbernard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
