@@ -84,7 +84,7 @@ I'm definitely not a villain person.
 
 <div align="center">
 
-<img height="420" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="50" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <!--
 **codewithbernard/codewithbernard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
