@@ -56,7 +56,7 @@ I am a dedicated Informatics Engineering Student at Gunadarma University with th
   <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff" alt="freeCodeCamp"/>
 </div>
 
-### <img src="https://media.giphy.com/media/zm6mmD8MXIap7P6UML/giphy.gif?cid=ecf05e47bw6hsaj5363889k349khnj3u3l2xtm7f3e2o8ylk&ep=v1_stickers_search&rid=giphy.gif&ct=s" Can be in
+### <img src="https://media.giphy.com/media/zm6mmD8MXIap7P6UML/giphy.gif?cid=ecf05e47bw6hsaj5363889k349khnj3u3l2xtm7f3e2o8ylk&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> Can be in
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white" alt="Word"/>
@@ -66,7 +66,7 @@ I am a dedicated Informatics Engineering Student at Gunadarma University with th
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom"/>
 </div>
 
-### 📫 Media Social
+### <img src="https://media.giphy.com/media/vN1HW2LqrvscEntAeI/giphy.gif?cid=ecf05e47c1pt5c3y2myp1ou7krhp9dt1b3ah2ykoqfycsqs7&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> Media Social
 
 <div display="flex">
   <a href="https://instagram.com/fidhera">
@@ -83,7 +83,7 @@ I am a dedicated Informatics Engineering Student at Gunadarma University with th
 ### <img src="https://media.giphy.com/media/cixPj5jdHWjZk9l5Xd/giphy.gif?cid=ecf05e47xrz76u3kzcm3lsrhmq32xv83r1nwr3osvs8slcfk&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> Fun fact
 I'm definitely not a villain person.
 
-<h3>🏆 Github Profile Trophy</h3>
+<h3> <img src="https://media.giphy.com/media/en5ORzU8uUSIsvElWr/giphy.gif?cid=790b76116k9in1cp3cntzsscwvezsm1brmomhsuki28njvoo&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> Github Profile Trophy</h3>
 <p align="center">
 <a href="https://github.com/fidhera">
 <!--  <img width=800 src="https://github-profile-trophy.vercel.app/?username=fidhera&column=8&theme=gruvbox&no-frame=true"/> -->
