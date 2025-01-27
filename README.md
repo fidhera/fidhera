@@ -1,5 +1,4 @@
-# 👋 About Me  
-
+#  <img src="https://media.giphy.com/media/n31H48lHjiTUk/giphy.gif?cid=ecf05e47djotj3zkwmmrl6q0ga4aksptpc3vu2umw86n47hv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> About Me  
 I am a dedicated Informatics Engineering Student at Gunadarma University with the spirit to continue learning and consistently improve skills in the field of computer technology.  
 
 <div align="center">
@@ -10,26 +9,32 @@ I am a dedicated Informatics Engineering Student at Gunadarma University with th
 </div>  
  -->
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 1rem;">
-    <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidhera&layout=compact&theme=dracula" />
-    <img height="130px" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" />
-</div>
+  <!-- snake graph -->
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" />
+      <img src="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
+    </picture>
+  <!-- <h4> _generated with [Platane/snk](https://platane.me/snk/)_</h4> -->
+  </div>
+<div align="left"><img src="https://github-readme-activity-graph.vercel.app/graph?username=fidhera&theme=github-compact&radius=16" height="auto" alt="by fidhera"/></div>  
 
 
 
 <br/>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I like learning with
-
-
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25hamx1M2VsdmxtdnJkczR5MWw4bHl0aDZqa3lldXo5YTUzMXl5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="50"> I like learning with
 <div display="flex">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <!--<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/> -->
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" alt="Laravel"/>
 </div>
 
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVqMHF0NmVnd2NwbzhoZXg4a2t5YW9vbmU0Ymk2NTlsdzR6bmlzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rPeDAYP6E9nJoP4qMS/giphy.gif" width="50"> Other
-
 <div display="flex">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" alt="vs Code"/>
   <img src="https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white" alt="Blogger"/>
@@ -38,8 +43,7 @@ I am a dedicated Informatics Engineering Student at Gunadarma University with th
   <img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white" alt="Spotify"/>
 </div>
 
-### 🌱 I’m learning
-
+### <img src="https://media.giphy.com/media/ZxqYlvNlNjg4M/giphy.gif?cid=ecf05e47ph8pvskgpg7nl78t0uc5tuj8cs6nygkfm3q03xl6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> I’m learning
 <div display="flex">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="PHP"/>
@@ -52,7 +56,7 @@ I am a dedicated Informatics Engineering Student at Gunadarma University with th
   <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff" alt="freeCodeCamp"/>
 </div>
 
-### 🖐🏼😊 Can be in
+### <img src="https://media.giphy.com/media/zm6mmD8MXIap7P6UML/giphy.gif?cid=ecf05e47bw6hsaj5363889k349khnj3u3l2xtm7f3e2o8ylk&ep=v1_stickers_search&rid=giphy.gif&ct=s" Can be in
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white" alt="Word"/>
@@ -76,8 +80,7 @@ I am a dedicated Informatics Engineering Student at Gunadarma University with th
   </a>
 </div>
 
-### 🚀 Fun fact
-
+### <img src="https://media.giphy.com/media/cixPj5jdHWjZk9l5Xd/giphy.gif?cid=ecf05e47xrz76u3kzcm3lsrhmq32xv83r1nwr3osvs8slcfk&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> Fun fact
 I'm definitely not a villain person.
 
 <h3>🏆 Github Profile Trophy</h3>
