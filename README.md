@@ -5,6 +5,8 @@ I am a dedicated Informatics Engineering Student at Gunadarma University with th
 <div style="display: flex; gap: 1rem;">
 <!-- <img align="left" height='130px' src="https://github-readme-stats.vercel.app/api?username=fidhera&show_icons=true&include_all_commits=true&&theme=dracula" /> -->
 
+https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif
+
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidhera&layout=compact&theme=dracula" />
 </div>
 
