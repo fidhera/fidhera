@@ -1,9 +1,12 @@
 # 👋 About Me  
 
-Saya adalah mahasiswa Teknik Informatika di **Universitas Gunadarma** yang selalu bersemangat untuk belajar dan mengembangkan kemampuan di bidang teknologi komputer. ❤️‍🔥  
+I am a dedicated Informatics Engineering Student at Gunadarma University with the spirit to continue learning and consistently improve skills in the field of computer technology.  
 
 <div align="center">
   <img align="center" height="300px" width="100%" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="Header Animation" />
+</div>  
+<div align="center">
+  <img align="center" height="300px" width="100%" src="https://media.giphy.com/media/cPxRDvlSj9QKA/giphy.gif?cid=ecf05e473kz1ysdexc2gddm21y05aw2rsih82p7rum2qh9em&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Header Animation" />
 </div>  
 
 ---
