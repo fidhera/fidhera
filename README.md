@@ -11,6 +11,10 @@ I am a dedicated Informatics Engineering Student at Gunadarma University with th
  -->
 ---
 
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidhera&layout=compact&theme=dracula" />
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
+
 <br/>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I like learning with
