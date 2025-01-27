@@ -9,15 +9,18 @@ I am a dedicated Informatics Engineering Student at Gunadarma University with th
   <img align="center" height="300px" width="100%" src="https://media.giphy.com/media/cPxRDvlSj9QKA/giphy.gif?cid=ecf05e473kz1ysdexc2gddm21y05aw2rsih82p7rum2qh9em&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Header Animation" />
 </div>  
  -->
----
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidhera&layout=compact&theme=dracula" />
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 1rem;">
+    <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidhera&layout=compact&theme=dracula" />
+    <img height="130px" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" />
+</div>
+
 
 
 <br/>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I like learning with
+
 
 <div display="flex">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -25,7 +28,7 @@ I am a dedicated Informatics Engineering Student at Gunadarma University with th
   <!--<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/> -->
 </div>
 
-### 🧑🏼‍💻 Other
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVqMHF0NmVnd2NwbzhoZXg4a2t5YW9vbmU0Ymk2NTlsdzR6bmlzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rPeDAYP6E9nJoP4qMS/giphy.gif" width="50"> Other
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" alt="vs Code"/>
