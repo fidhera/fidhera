@@ -6,7 +6,7 @@ I am a dedicated Informatics Engineering Student at Gunadarma University with th
 </div>  
 <!-- <div align="center">
   <img align="center" height="300px" width="100%" src="https://media.giphy.com/media/cPxRDvlSj9QKA/giphy.gif?cid=ecf05e473kz1ysdexc2gddm21y05aw2rsih82p7rum2qh9em&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Header Animation" />
-</div>  dddddddddddddddddddddddd
+</div>  dddddddddddddddddddddd
  -->
 
   <!-- snake graph -->
