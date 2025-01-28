@@ -1,5 +1,11 @@
-#  <img src="https://media.giphy.com/media/n31H48lHjiTUk/giphy.gif?cid=ecf05e47djotj3zkwmmrl6q0ga4aksptpc3vu2umw86n47hv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> About Me  
-I am a dedicated Informatics Engineering Student at Gunadarma University with the spirit to continue learning and consistently improve skills in the field of computer technology.  
+<h1 align="center">Hi 👋, I'm Raffael Fidhera</h1>
+<h3 align="center">Junior Developer | UI/UX Designer</h3>
+<br/>
+
+<!-- Gif Blur Code 
+<div align="center">
+  <img align="center" height="300px" width="100%" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi278FA6twoBRVySDLT8qQCTO7UZ27s5WSEAq6nT3nxcbolowQMfQ0eZ5G8KeWx_oJR_IwywCy5E37XmjEF6PQRWVFfa0xl_PycMcZIpw4zHmequkLB9jZV0SGFLaTL0xrDtC_Mx9n-NhDSSdkqkl1nf1ypV3uuLNgBiIGhKNwSE24NfBywCUpUqX7yNAEr/s16000/code-bannerr.gif" alt="Header Animation" />
+</div>  -->
 
 <div align="center">
   <img align="center" height="300px" width="100%" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="Header Animation" />
@@ -21,8 +27,14 @@ I am a dedicated Informatics Engineering Student at Gunadarma University with th
 <div align="left"><img src="https://github-readme-activity-graph.vercel.app/graph?username=fidhera&theme=github-compact&radius=16" height="auto" alt="by fidhera"/></div>  
 
 
-
 <br/>
+
+<div align="center"> 
+<h1>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBvcGgybWp2eXNlajhtbTBheDdrYzUwZG50YnFqcml3dzY5em0xOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/14wCd5tKL4zV7y/giphy.gif" width="70"> About Me<img src="https://media.giphy.com/media/1CporlGs42igE/giphy.gif?cid=ecf05e47lqn9bm8lmv8s8i2ij42agfyr53nbvy9rep44oteb&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="70">
+<!-- I am a dedicated Informatics Engineering Student at Gunadarma University with the spirit to continue learning and consistently improve skills in the field of computer technology.  -->
+</h1>
+</div>
 
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25hamx1M2VsdmxtdnJkczR5MWw4bHl0aDZqa3lldXo5YTUzMXl5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="50"> I like learning with
 <div display="flex">
