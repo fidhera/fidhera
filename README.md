@@ -24,12 +24,12 @@ I am a dedicated Informatics Engineering Student at Gunadarma University with th
 
 <br/>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I like learning with
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25hamx1M2VsdmxtdnJkczR5MWw4bHl0aDZqa3lldXo5YTUzMXl5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="50"> I like learning with
 <div display="flex">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" alt="Laravel"/>
 </div>
@@ -63,6 +63,7 @@ I am a dedicated Informatics Engineering Student at Gunadarma University with th
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint"/>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom"/>
 </div>
 
@@ -93,7 +94,7 @@ I'm definitely not a villain person.
 
 <div align="center">
 
-<img height="50" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="100px" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <!--
 **codewithbernard/codewithbernard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -105,6 +106,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
   -->
   <!-- snake graph -->
+   <!--
   <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake-dark.svg" />
@@ -115,7 +117,7 @@ Here are some ideas to get you started:
   </div>
   <br>
   <div align="left">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fidhera&theme=github-compact&radius=16" height="auto" alt="by fidhera"/>
+<img align="center" height="300px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidhera&layout=compact&theme=dracula" />
 
 <br/>
 <br/>
