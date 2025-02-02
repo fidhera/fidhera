@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raffael Fidhera</h1>
-<h3 align="center">Junior Developer | UI/UX Designer</h3>
+<h3 align="center">Enthusiastic about technology and design</h3>
 <br/>
 
 <!-- Gif Blur Code 
