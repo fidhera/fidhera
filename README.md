@@ -2,7 +2,7 @@
 <h3 align="center">Enthusiastic about technology and design</h3>
 <br/>
 
-<!-- Gif Blur Code -----qqqqqqq
+<!-- Gif Blur Code -----qqqqq
 <div align="center">
   <img align="center" height="300px" width="100%" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi278FA6twoBRVySDLT8qQCTO7UZ27s5WSEAq6nT3nxcbolowQMfQ0eZ5G8KeWx_oJR_IwywCy5E37XmjEF6PQRWVFfa0xl_PycMcZIpw4zHmequkLB9jZV0SGFLaTL0xrDtC_Mx9n-NhDSSdkqkl1nf1ypV3uuLNgBiIGhKNwSE24NfBywCUpUqX7yNAEr/s16000/code-bannerr.gif" alt="Header Animation" />
 </div> 
