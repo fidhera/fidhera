@@ -1,11 +1,11 @@
 <div align="center">
     <img src="https://nirzak-streak-stats.vercel.app/?user=fidhera&theme=dark&hide_border=false" height="180px" />
 
-<br>
-<br>
+    <br>
+    <br>
 
-  ``<img height="200px" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="Header Animation" />``
-</div>
+    <img height="200px" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="Header Animation" />
+</div>>
 
 
 
