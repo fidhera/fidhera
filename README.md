@@ -1,9 +1,6 @@
 <div align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=fidhera&theme=dark&hide_border=false" height="180px" />
-
-<br>
-<br>
-</div>>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=fidhera&theme=dark&hide_border=false" height="180px"/>
+</div>
 
 
 
@@ -113,11 +110,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-  
+  <a href="https://github.com/fidhera">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/fidhera?cardType=level-alternate&fontFamily=Poppins&theme=dark" alt="Raffael's GitHub Stats" />
+  </a>
   <br>
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidhera&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-
 </div>
