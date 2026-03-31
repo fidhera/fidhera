@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=fidhera&theme=dark&hide_border=false" height="180px"/>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fidhera&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
 </div>
 
 
