@@ -110,18 +110,4 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 
-</div>
-
----
-
-```
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/fidhera">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/fidhera?cardType=level-alternate&fontFamily=Poppins&theme=dark" alt="Raffael's GitHub Stats" />
-  </a>
-  <br>
-</div>
-
-```
+</d
