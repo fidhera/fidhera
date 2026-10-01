@@ -1,10 +1,17 @@
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fidhera&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
+  <img src="Profile Banner Github.png" alt="Profile Banner" width="100%" />
 </div>
 
+<br>
 
+<div align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=fidhera&theme=dark&short_numbers=true" alt="GitHub Streak" />
+    </a>
+</div>
 
-<h1 align="center">Hi 👋, I'm Raffael Fidhera</h1>
+<br>
+
 <h3 align="center">Informatics Engineering Student @ Gunadarma University</h3>
 <p align="center">
   <em>Enthusiastic about technology, design, and consistently improving skills in the field of computer technology.</em>
@@ -31,7 +38,7 @@
 ⚡ Fun fact: <b>I'm definitely not a villain person.</b>
 </p>
 
-------
+---
 
 ### 💻 Tech Stack & Tools
 
@@ -107,6 +114,7 @@
 
 ---
 
+```
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -115,3 +123,5 @@
   </a>
   <br>
 </div>
+
+```
